@@ -925,5 +925,50 @@
     "SFONDO",
     "ORIZZONTE",
     "GIRO"
+  ],
+  [
+    "PORTIERE",
+    "DIFENSORE",
+    "UFFICIO",
+    "PERSONALE",
+    "TITOLO",
+    "PORTATORE",
+    "SHERPA"
+  ],
+  [
+    "LAVAGGIO",
+    "SECCO",
+    "RESTARE",
+    "PALO",
+    "FRASCA",
+    "VERDE",
+    "SALSA"
+  ],
+  [
+    "CONFIDENTE",
+    "SPIA",
+    "LUMINOSA",
+    "TROVATA",
+    "SCOPERTA",
+    "AMERICA",
+    "ZIO"
+  ],
+  [
+    "ZONA",
+    "PERIFERICA",
+    "STAMPANTE",
+    "VASSOIO",
+    "PORTATA",
+    "BAMBINI",
+    "RIDUZIONE"
+  ],
+  [
+    "INNO",
+    "MARCIA",
+    "SCALO",
+    "COINCIDENZA",
+    "COMBINAZIONE",
+    "CINQUINA",
+    "FINALISTI"
   ]
 ]
