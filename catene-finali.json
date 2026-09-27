@@ -1018,5 +1018,39 @@
     "PIANO",
     "INTERNO",
     "PIATTO"
+  ],
+  [
+    "SEMPLICE",
+    "MANO",
+    "PRESA",
+    "POSIZIONE",
+    "UOVO",
+    "GUSCIO",
+    "CHIOCCIOLA",
+    "EMAIL",
+    "INDIRIZZO",
+    "ABITO",
+    "SIRENA",
+    "CODA",
+    "CAVALLO",
+    "CARTA",
+    "PIANTA"
+  ],
+  [
+    "A",
+    "VOCALE",
+    "COMANDO",
+    "ORDINE",
+    "GIORNO",
+    "GIUDIZIO",
+    "SAGGEZZA",
+    "PERLE",
+    "FILI",
+    "SENZA",
+    "SE",
+    "STANTE",
+    "SEDUTA",
+    "CAMERA",
+    "ARIA"
   ]
 ]
