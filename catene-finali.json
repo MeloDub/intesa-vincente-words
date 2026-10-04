@@ -1409,5 +1409,39 @@
     "BRACCIO",
     "MECCANICO",
     "INVOLONTARIO"
+  ],
+  [
+    "ARIA",
+    "TROMBA",
+    "SCALE",
+    "MOBILI",
+    "MORDENTE",
+    "SMALTO",
+    "UNGHIE",
+    "DENTI",
+    "STRINGERE",
+    "VITI",
+    "FILARE",
+    "LISCIO",
+    "BALLO",
+    "CAVALIERE",
+    "TITOLO"
+  ],
+  [
+    "SARDO",
+    "PECORINO",
+    "VINO",
+    "PANE",
+    "SESAMO",
+    "APRITI",
+    "CIELO",
+    "GRIGIO",
+    "TALPA",
+    "SPIA",
+    "QUADRO",
+    "SPACCATO",
+    "ZERO",
+    "PREFISSO",
+    "PIÙ"
   ]
 ]
