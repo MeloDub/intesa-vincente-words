@@ -2752,5 +2752,41 @@
     "FALSO",
     "PROFILO",
     "MONETA"
+  ],
+  [
+    "NOTAIO",
+    "TARGA",
+    "POSTERIORE",
+    "SUCCESSIVO",
+    "EPISODIO",
+    "ISOLATO",
+    "GIRO"
+  ],
+  [
+    "SERENO",
+    "SGOMBRO",
+    "SCATOLA",
+    "MONTAGGIO",
+    "SCENA",
+    "PIAZZATA",
+    "FERMA"
+  ],
+  [
+    "SCHERZO",
+    "SORPRESA",
+    "FINALE",
+    "CHIUSA",
+    "MENTE",
+    "CALCOLI",
+    "STIMA"
+  ],
+  [
+    "MEZZO",
+    "SETTE",
+    "PALLANUOTO",
+    "CALOTTA",
+    "ARTICA",
+    "SCIABOLATA",
+    "CHAMPAGNE"
   ]
 ]
