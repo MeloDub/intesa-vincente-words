@@ -3031,5 +3031,41 @@
     "LIQUIDO",
     "LAVAVETRI",
     "GRATTACIELO"
+  ],
+  [
+    "BEBÈ",
+    "BORDO",
+    "CIGLIO",
+    "PELO",
+    "SOFFIO",
+    "ADAMO",
+    "POMO"
+  ],
+  [
+    "TAGLIATELLE",
+    "TARTUFO",
+    "CIOCCOLATO",
+    "MODICA",
+    "PICCOLA",
+    "AREA",
+    "SUPERFICIE"
+  ],
+  [
+    "SOGLIOLA",
+    "PIATTA",
+    "ANONIMA",
+    "LETTERA",
+    "SEZIONE",
+    "RAMO",
+    "FAMIGLIA"
+  ],
+  [
+    "SCATOLETTA",
+    "ALLUMINIO",
+    "CONDUTTORE",
+    "SPEAKER",
+    "DIFFUSORE",
+    "AMBIENTI",
+    "CASA"
   ]
 ]
